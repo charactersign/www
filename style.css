@@ -44,7 +44,7 @@ body, html {
 }
 
 .lime {
-    background-color: #24ba31;
+    background-color: #6024ba;
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.6);
     transition: all 0.2s ease-in-out;
 }
@@ -52,4 +52,13 @@ body, html {
 .lime:hover {
     background-color: #a4bbff; /* Adjust the color for the hover effect as needed. */
     transform: translate(-50%, -50%) scale(1.1); /* Combining the translate and scale properties */
+}
+
+ 
+.days-one {
+    font-family: 'Days One', sans-serif;
+}
+
+.text-shadow {
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
 }
